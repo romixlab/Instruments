@@ -3,6 +3,7 @@ Contains:
 * Artificial Horizon
 * ILS Indicator
 * LCD screen
+* Speed indicator with color ranges
 * Knob with on/off
 * Most likely not very useful path renderer
 * Dumb PID based flight simulator
